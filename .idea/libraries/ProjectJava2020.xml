@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ProjectJava2020">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/ProjectJava2020.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
